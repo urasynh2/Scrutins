@@ -1,0 +1,655 @@
+[
+    {
+        "id": "scrutin_661403cb787ed",
+        "organisateur": "amine@oui.fr",
+        "question": "manger ou boire",
+        "options": {
+            "manger": 0,
+            "boire": 0
+        },
+        "total_votes": 5,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1,
+            "jordy@oui.fr": 1,
+            "valeria@oui.fr": 1,
+            "rania@hotmail.fr": 1
+        },
+        "actif": false
+    },
+    {
+        "id": "scrutin_661403ea6953c",
+        "organisateur": "amine@oui.fr",
+        "question": "Préférez vous le th\u00e9 ou le caff\u00e9 ?",
+        "options": {
+            "th\u00e9": 1,
+            "caff\u00e9": 2
+        },
+        "total_votes": 5,
+        "votes_comptes": 3,
+        "votants": {
+            "amine@oui.fr": 0,
+            "lala@oui.fr": 1,
+            "spiderman@oui.fr": 1,
+            "rayene@oui.fr": 1,
+            "test@oui.fr": 1,
+            "rania@hotmail.fr": 1
+        },
+        "actif": false
+    },
+    {
+        "id": "scrutin_6614042bbfa1c",
+        "organisateur": "amine@oui.fr",
+        "question": "gauche ou droite",
+        "options": {
+            "gauche": 0,
+            "droite": 0
+        },
+        "total_votes": 4,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1,
+            "jordy@oui.fr": 1,
+            "valeria@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6614045f5362d",
+        "organisateur": "amine@oui.fr",
+        "question": "sal\u00e9 ou sucr\u00e9",
+        "options": {
+            "sal\u00e9": 0,
+            "sucr\u00e9": 0
+        },
+        "total_votes": 3,
+        "votes_comptes": 0,
+        "votants": {
+            "paul@oui.fr": 1,
+            "spiderman@oui.fr": 1,
+            "tom@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_66140a63b5c6c",
+        "organisateur": "amine@oui.fr",
+        "question": "1+1=",
+        "options": {
+            "2": 1,
+            "non": 0
+        },
+        "total_votes": 5,
+        "votes_comptes": 1,
+        "votants": {
+            "amine@oui.fr": 0,
+            "lala@oui.fr": 1,
+            "jordy@oui.fr": 1,
+            "valeria@oui.fr": 1,
+            "paul@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617c22cdb6ba",
+        "organisateur": "fred@oui.fr",
+        "question": "Bleu ou Rouge",
+        "options": {
+            "Bleu": 1,
+            "Rouge": 2
+        },
+        "total_votes": 10,
+        "votes_comptes": 3,
+        "votants": {
+            "lala@oui.fr": 1,
+            "amine@oui.fr": 1,
+            "valeria@oui.fr": 1,
+            "spiderman@oui.fr": 1,
+            "aziza@oui.fr": 3,
+            "fred@oui.fr": 0
+        },
+        "actif": false
+    },
+    {
+        "id": "scrutin_6617c33153684",
+        "organisateur": "rosaz@oui.fr",
+        "question": "Notation suffixe, infixe ou prefixe",
+        "options": {
+            "suffixe": 0,
+            "infixe": 1,
+            "pr\u00e9fixe": 0
+        },
+        "total_votes": 6,
+        "votes_comptes": 1,
+        "votants": {
+            "lala@oui.fr": 1,
+            "amine@oui.fr": 0,
+            "valeria@oui.fr": 1,
+            "zoari@oui.fr": 1,
+            "fred@oui.fr": 1,
+            "rosaz@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617d5a901801",
+        "organisateur": "david@oui.fr",
+        "question": "blanc ou noir",
+        "options": {
+            "blanc": 0,
+            "noir": 0
+        },
+        "total_votes": 10,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1,
+            "valeria@oui.fr": 3,
+            "spiderman@oui.fr": 1,
+            "ania@gmail.com": 1,
+            "david@oui.fr": 3
+        },
+        "actif": false
+    },
+    {
+        "id": "scrutin_6617d5c009855",
+        "organisateur": "david@oui.fr",
+        "question": "vert ou bleu",
+        "options": {
+            "vert": 2,
+            "bleu": 1,
+            "aucun des 2": 0
+        },
+        "total_votes": 10,
+        "votes_comptes": 3,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1,
+            "valeria@oui.fr": 3,
+            "spiderman@oui.fr": 1,
+            "ania@gmail.com": 1,
+            "david@oui.fr": 0
+        },
+        "actif": false
+    },
+    {
+        "id": "scrutin_6617d6563d9df",
+        "organisateur": "david@oui.fr",
+        "question": "adaefa",
+        "options": {
+            "vertefqff": 0,
+            "bleuqdsfdsf": 0,
+            "aucun f2": 0
+        },
+        "total_votes": 7,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1,
+            "valeria@oui.fr": 3,
+            "spiderman@oui.fr": 1,
+            "ania@gmail.com": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617dc01bde99",
+        "organisateur": "amine@oui.fr",
+        "question": "dazd",
+        "options": {
+            "ada": 0,
+            "dad": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e022e2d68",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02a8f050",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02abc61e",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02b28f9f",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02b7a0eb",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02ba6355",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02c1bc83",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02c4898e",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02c794fb",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02ca5c9b",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02ccd839",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02cf3bc8",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02d238ce",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02d45da8",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02d6a016",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02d8f229",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02daea98",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02dd3a69",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 1
+        },
+        "total_votes": 2,
+        "votes_comptes": 1,
+        "votants": {
+            "amine@oui.fr": 0,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02e1006c",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02e556d8",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02e7eee8",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02eab2bf",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02ed2989",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02f05141",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02f2b1db",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    },
+    {
+        "id": "scrutin_6617e02f61702",
+        "organisateur": "amine@oui.fr",
+        "question": "les etrangers en france ?",
+        "options": {
+            "ada": 0,
+            "dad": 0,
+            "prout": 0
+        },
+        "total_votes": 2,
+        "votes_comptes": 0,
+        "votants": {
+            "amine@oui.fr": 1,
+            "lala@oui.fr": 1
+        },
+        "actif": true
+    }
+]

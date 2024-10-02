@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title> Connexion/Inscription </title>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+  <div class="navbar">
+    <a style="float: left" href="acceuil.php">Accueil</a>
+    
+</div>
+
+<br>
+
+    <div id="inscriptionTab" class="tab">
+            <h2>INSCRIPTION</h2>
+
+            <label for='iemail'>Entrer email:</label><br>
+            <input type="email" id="iemail" name="iemail"  required><br>
+
+            <label for='ipassword'>Entrer mot de passe:</label><br>
+            <input type="password" id="ipassword" name="ipassword"  required><br>
+
+            <label for='ipassword2'>Confirmer mot de passe:</label><br>
+            <input type="password" id="ipassword2" name="ipassword2"  required><br>
+
+            <input type="button" value="S'inscrire" onclick="inscription()">
+
+            <div id="imessage"></div>
+
+            Vous avez deja un compte ?<button onclick="openTab('connexion')">Connexion</button>
+
+    </div>
+
+    <div id="connexionTab" class="tab">
+          <h2>CONNEXION</h2>
+
+          <label for='cemail'>Email:</label><br>
+            <input type="email" id="cemail" name="cemail"  required><br>
+
+          <label for="cpassword">Mot de passe :</label><br>
+          <input type="password" id="cpassword" name="cpassword" required><br>
+          
+          <input type="button" value="Se connecter" onclick="connexion()">
+
+          <div id="cmessage"></div>    
+
+          Vous n'avez pas de compte ?<button onclick="openTab('inscription')">Inscription</button>
+    </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="conn_inscr.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,74 @@
+{
+    "groups": {
+        "L3 info": [
+            "amine@oui.fr",
+            "tom@oui.fr",
+            "ayoub@oui.fr",
+            "ania@gmail.com"
+        ],
+        "gfdsq": [
+            "amine@oui.fr",
+            "lala@oui.fr",
+            "valeria@oui.fr",
+            "spiderman@oui.fr"
+        ]
+    },
+    "users": [
+        {
+            "email": "amine@oui.fr",
+            "password": "$2y$10$ytqzqsQaE4Rkk2FR5PPrTefbJ275IC\/4bF\/3jhhk2KUV49cBFdhLS"
+        },
+        {
+            "email": "lala@oui.fr",
+            "password": "$2y$10$CcRWaJBeeXH9h6A1deEZrubeqbsWUQISJFP5DHKRzwkf2IVNRQakC"
+        },
+        {
+            "email": "valeria@oui.fr",
+            "password": "$2y$10$bbD8Qs.vewoRDPmjdrHhw.c5uoV9idT59bCZi6D4QqLWbJzEU98\/q"
+        },
+        {
+            "email": "spiderman@oui.fr",
+            "password": "$2y$10$7bDdjxYIKXRcKYSG0wvP4.QcGMUCHEzsrp4FmXllEiumsi0C06ZJi"
+        },
+        {
+            "email": "aziza@oui.fr",
+            "password": "$2y$10$35Zqtvjtt4QzM1HlK5.ZauBz2fUyyf4h03JNg6qaSiHKoWCNuUNB6"
+        },
+        {
+            "email": "tom@oui.fr",
+            "password": "$2y$10$nyHem2rRrvlV4FbTngFoYumb\/X3\/BuaVlRFggI.n0OSOdGfOsmE5W"
+        },
+        {
+            "email": "ayoub@oui.fr",
+            "password": "$2y$10$XzpTvDBQn6atKw8GfFRds.4aQXX84Bs937cTDD.piiHaVt3VogMiS"
+        },
+        {
+            "email": "batman@oui.fr",
+            "password": "$2y$10$\/KDx7v0mwzwUU5\/qV5QMX.MYS5J8ICNXEResdVr5pzqya4OBMD8Qa"
+        },
+        {
+            "email": "zoari@oui.fr",
+            "password": "$2y$10$zUfRwvUiHN07rMXcmr4.ruQuQZ88iZP0N5QU7G2WaIhrrIxtpYxbK"
+        },
+        {
+            "email": "fred@oui.fr",
+            "password": "$2y$10$grjI\/4QNEoKbuR2oq82xzu3RrRRkiRhEkaZWMb6DkDqVQm8CXHYP."
+        },
+        {
+            "email": "rosaz@oui.fr",
+            "password": "$2y$10$c\/RpDIBfcEMsdz\/ZY69Jpuk24kBr1Gj9soa.EF6Mf3xZkoTJmNjQy"
+        },
+        {
+            "email": "ania@gmail.com",
+            "password": "$2y$10$zxbYMJo6eKc.548yZEmlt.b9E5ugrcAq16OluSnWk5lkNqYGEInle"
+        },
+        {
+            "email": "david@oui.fr",
+            "password": "$2y$10$yhHesegE40qfdYXdRuI6T.LIeqaqJIaLv1R.nyZgQ3HVtLV6lPwb2"
+        },
+        {
+            "email": "test@oui.fr",
+            "password": "$2y$10$0Rc5L7YZhsUzp.4\/jmknou8b2SQHdKhsZqZ72AFfedqjrnE3jkqWW"
+        }
+    ]
+}
